@@ -11,6 +11,6 @@ mongoose.connect("mongodb://localhost:27017/email-verify")
   .then(() => {
     app.listen(5000, () => console.log("Server started at http://localhost:5000"));
   });
-app.listend(8080,()=>{
+app.listen(8080,()=>{
     console.log("server are run port 8080");
 }
