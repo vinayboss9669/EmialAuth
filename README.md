@@ -17,3 +17,5 @@ It can be easily integrated into any frontend or backend application.
 ---
 
 ## 📂 Project Structure
+1) login and signup with animation.
+2) Second thing using 3rd party platform make l&S .
